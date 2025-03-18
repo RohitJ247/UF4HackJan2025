@@ -1,3 +1,7 @@
+'''
+This function displays a welcome message when the user first opens the application
+'''
+
 def print_welcome():
     print("                *               ")
     print("  *             *            *  ")
@@ -12,6 +16,6 @@ def print_welcome():
     print("________________________________")
     print("*                              *")
     print("*                              *")
-    print("* Welcome to HS Career Integrator SYstem! *")
+    print("* Welcome to HS Career Integrator System! *")
     print("*                              *")
     print("*______________________________*")
